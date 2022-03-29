@@ -1,0 +1,18 @@
+.bg-img{
+    background-image: url(./../../../images/banner.jpg);
+    /* background-attachment:fixed; */
+    padding: 200px 10px;
+    background-size: cover;
+}
+.banner-text h1{
+    font-size: 55px;
+    color: rgb(83, 80, 80);
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.banner-btn button {
+    margin-left: 200px;
+    padding: 10px 20px 10px 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
