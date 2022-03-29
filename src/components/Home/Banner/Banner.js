@@ -9,8 +9,8 @@ const Banner = () => {
                     <h1>Best Solution <br />to Study at Home</h1>
                 </div>
                 <div className="banner-btn">
-                    <button className='btn btn-success mt-3'>See Courses</button>
-                    <button className='btn btn-warning ms-3 mt-3'>Take Lesson</button>
+                    <button className='btn btn-warning mt-3'>See Courses</button>
+                    <button className='btn btn-success ms-3 mt-3'>Take Lesson</button>
                 </div>
             </div>
         </div>
